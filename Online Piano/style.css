@@ -1,0 +1,61 @@
+body{
+    background: burlywood;
+}
+.key{
+    display: inline-block;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    margin-left: 0;
+    width: 34px;
+    border: 2px solid gray;
+    text-align: center;
+    background: white;
+    margin-right: -3px;
+}
+
+.b_key{
+    display: inline-block;
+    background: black;
+    color: white;
+    width: 24px;
+    padding-bottom: 15px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+#W{
+    margin-right: 10.6px;
+}
+#E{
+
+}
+#T{
+    margin-left: 48.6px;
+}
+#Y{
+    margin-left: 9.6px;
+}
+#U{
+    margin-left: 10.6px;
+}
+
+.container{
+    width: 100%;
+    margin: 15% auto 15% auto;
+}
+
+.black-keys{
+    position: relative;
+    z-index: 1000;
+    top: 60.2px;
+    left: 25.2px;
+    width: 300px;
+    margin: 0 auto;
+
+}
+
+.white-keys{
+    width: 300px;
+    margin: 0 auto;
+}
+
